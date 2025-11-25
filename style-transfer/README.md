@@ -14,7 +14,24 @@ Weimo Zhu
 
 ## Demos
 
-*[Add demo images, videos, or links here]*
+<table>
+  <tr>
+    <th>Content Image</th>
+    <th>Style Image</th>
+    <th>Output Image</th>
+  </tr>
+  <tr>
+    <td><img src="demo_images/my_content.jpg" width="220"></td>
+    <td><img src="demo_images/my_style.jpg" width="220"></td>
+    <td><img src="demo_images/output.png" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="demo_images/my_content2.jpg" width="220"></td>
+    <td><img src="demo_images/my_style2.jpg" width="220"></td>
+    <td><img src="demo_images/output2.png" width="220"></td>
+  </tr>
+</table>
+
 
 ## References
 
