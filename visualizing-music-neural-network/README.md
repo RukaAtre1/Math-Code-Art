@@ -20,7 +20,7 @@ Shanmei Wanyan
 
 **Full video:**  
 
-https://github.com/jiayinlu19960224/Math-Code-Art/issues/1
+https://github.com/user-attachments/assets/5a45e392-9656-4ab0-a13b-3f2e2c400691
 
 
 
