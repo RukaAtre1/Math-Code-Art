@@ -11,15 +11,13 @@ Tucker Nielson
 
 ## Demos
 
-## Demos
-
 | Original Image | Voronoi Mosaic |
 |---------------|----------------|
-| <img src="assets/bird_original.jpg" width="300"> | <img src="assets/bird_voronoi.png" width="300"> |
-| <img src="assets/peach_original.jpg" width="300"> | <img src="assets/peach_voronoi.png" width="300"> |
-| <img src="assets/butterfly_original.jpg" width="300"> | <img src="assets/butterfly_voronoi.png" width="300"> |
+| <img src="assets/bird.jpg" width="300"> | <img src="assets/bird_voronoi.png" width="300"> |
+| <img src="assets/peach.jpg" width="300"> | <img src="assets/peach_voronoi.png" width="300"> |
+| <img src="assets/butterfly.jpg" width="300"> | <img src="assets/butterfly_voronoi.png" width="300"> |
 
 
 ## References
 
-*[Add relevant papers, tutorials, or resources here]*
+- Aurenhammer, F. "Voronoi Diagrams - A Survey of a Fundamental Geometric Data Structure." ACM Computing Surveys, 1991.
