@@ -15,8 +15,11 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 - Juhao Jia
 - Weimo Zhu
 - Tucker Nielson
+- Meichen Wan
+- Dengyuhan Dai
 
 **Co-Faculty Advisors:**
+- Dr. Jiayin Lu
 - Dr. Ying Jiang
 - Prof. Chenfanfu Jiang
 - Prof. Michael Andrews
