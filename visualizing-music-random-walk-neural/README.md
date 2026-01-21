@@ -3,6 +3,7 @@
 ## Brief Description
 
 This tutorial introduces students to a music-conditioned random-walk visualizer powered by a neural network.  
+
 The system first learns the overall color structure of a reference image using a coordinate-based neural network, and then generates animated artwork by drawing random-walk strokes whose motion are continuously controlled by features extracted from the soundtrack.
 
 Students will learn how random walks can be used as a generative drawing mechanism, how music features influence motion dynamics and color through neural networks, and how combining stochastic paths with neural color fields can create visuals that evolve smoothly with audio.
