@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-This tutorial introduces students to a music-conditioned random-walk visualizer powered by a neural network.  
+This tutorial introduces students to a music-conditioned random-walk visualizer powered by a neural network.
 
 The system first learns the overall color structure of a reference image using a coordinate-based neural network, and then generates animated artwork by drawing random-walk strokes whose motion are continuously controlled by features extracted from the soundtrack.
 
