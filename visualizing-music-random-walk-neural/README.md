@@ -25,6 +25,4 @@ Shanmei Wanyan, Coco Zhang
 
 
 
-https://github.com/jiayinlu19960224/Math-Code-Art/blob/main/visualizing-music-random-walk-neural/examples/liability_final.mp4
-https://github.com/jiayinlu19960224/Math-Code-Art/blob/main/visualizing-music-random-walk-neural/examples/one_last_kiss_final.mp4
-https://github.com/jiayinlu19960224/Math-Code-Art/blob/main/visualizing-music-random-walk-neural/examples/city_of_stars_final.mp4
+https://github.com/user-attachments/assets/34292ed8-ef9d-4242-ba2a-2e0df55205bd
