@@ -1,6 +1,6 @@
 # Math + Code + Art
 
-**Developing New Course for UCLA Mathematics**
+**[Developing New Course for UCLA Mathematics](https://jlu227.wixsite.com/kay-lu/teaching)**
 *To be offered in 2026*
 
 ## Course Overview
@@ -31,9 +31,11 @@ Each topic has its own directory with documentation, code, and demos:
 - **[Music Painting](./music-painting/)** - Translating music data into visual art
 - **[Music Spirograph](./music-spirograph/)** - Spirograph and fractal generation from music
 - **[Visualizing Music with Neural Network](./visualizing-music-neural-network/)** - Training neural networks to map sound to color
+- **[Visualizing Music with Random Walk Neural Network](./visualizing-music-random-walk-neural/)** - Random walk neural network approach to music visualization
 - **[Style Transfer](./style-transfer/)** - Style transfer for paintings
 - **[Voronoi Photo Mosaic](./voronoi-photo-mosaic/)** - Voronoi-based generative art
 - **[Photo Collage](./photo-collage/)** - Algorithmic image collages
+- **[Image Point Traveling Salesman](./image-point-traveling-salesman/)** - Using TSP algorithms to create artistic line drawings from images
 
 Additional planned topics:
 - 3D mathematical modeling and printing
