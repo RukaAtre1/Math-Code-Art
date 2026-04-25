@@ -12,7 +12,7 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 **Co-developers (mentees):**
 - Shanmei Wanyan
 - Hanyin Coco Zhang
-- Juhao Jia
+- Junhao Jia
 - Weimo Zhu
 - Tucker Nielson
 - Meichen Wan
