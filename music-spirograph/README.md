@@ -10,6 +10,10 @@ Main files:
 - `Spiro_Stable_From_Original.ipynb`
 - `Spiro_Stable_Tutorial.ipynb`
 
+## Exhibition version: Resonant Orbits
+
+[`resonant-orbits/`](./resonant-orbits/) contains the exhibition renderer: five recordings, each drawn with its own double-rotor mechanism and palette, rendered natively in 4K with matching 300 DPI prints. See its README for the music-to-geometry mapping and how to run it.
+
 ## Tutorial Lead
 
 Junhao Jia
