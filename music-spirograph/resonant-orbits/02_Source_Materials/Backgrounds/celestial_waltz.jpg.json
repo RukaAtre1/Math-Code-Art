@@ -1,0 +1,34 @@
+{
+  "kind": "photograph",
+  "creator": "Mushvig Niftaliyev",
+  "source_url": "https://unsplash.com/photos/cityscape-with-bridge-and-illuminated-buildings-at-night-Wq_XU6bB6DQ",
+  "download_url": "https://images.unsplash.com/photo-1763305210073-bee7d103825e?fm=jpg&q=95",
+  "license": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "commercial_use": true,
+  "verified_date": "2026-09-29",
+  "source_dimensions": [
+    5538,
+    3692
+  ],
+  "sha256": "d54fb4ab73e6a3cc0c7389fab874905cb7d181fdcf226225aa8e91481000b6ac",
+  "render": {
+    "brightness": 0.36,
+    "saturation": 0.76,
+    "crop_center": [
+      0.5,
+      0.25
+    ],
+    "focus_center": [
+      0.5,
+      0.35
+    ],
+    "focus_dim": 0.32,
+    "focus_radius": [
+      0.32,
+      0.38
+    ],
+    "blur": 0.2
+  },
+  "usage_note": "Used within a substantially modified music-generated artwork; do not resell the unmodified photograph."
+}

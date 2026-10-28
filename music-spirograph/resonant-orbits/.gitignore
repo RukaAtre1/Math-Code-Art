@@ -1,0 +1,12 @@
+# Code only: renders, recordings, photographs and generated backgrounds stay local.
+03_Generation_Tools/Generated_Runs/
+01_Deliverables/
+02_Source_Materials/Audio/*
+!02_Source_Materials/Audio/README.md
+02_Source_Materials/Backgrounds/*.png
+02_Source_Materials/Backgrounds/*.jpg
+02_Source_Materials/Backgrounds/*.jpeg
+02_Source_Materials/Backgrounds/*.webp
+02_Source_Materials/Backgrounds/*[!g].json
+*.mp4
+__pycache__/

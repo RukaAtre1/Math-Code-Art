@@ -21,6 +21,7 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 **Co-Faculty Advisors:**
 - Dr. Jiayin Lu
 - Dr. Ying Jiang
+- Dr. Yue Sun
 - Prof. Chenfanfu Jiang
 - Prof. Michael Andrews
 
@@ -28,14 +29,15 @@ An interdisciplinary exploration at the intersection of mathematics, programming
 
 Each topic has its own directory with documentation, code, and demos:
 
+- **[Music Spirograph](./music-spirograph/)** - Spirograph generation from music
 - **[Music Painting](./music-painting/)** - Translating music data into visual art
-- **[Music Spirograph](./music-spirograph/)** - Spirograph and fractal generation from music
 - **[Visualizing Music with Neural Network](./visualizing-music-neural-network/)** - Training neural networks to map sound to color
 - **[Visualizing Music with Random Walk Neural Network](./visualizing-music-random-walk-neural/)** - Random walk neural network approach to music visualization
 - **[Style Transfer](./style-transfer/)** - Style transfer for paintings
-- **[Voronoi Photo Mosaic](./voronoi-photo-mosaic/)** - Voronoi-based generative art
-- **[Photo Collage](./photo-collage/)** - Algorithmic image collages
-- **[Image Point Traveling Salesman](./image-point-traveling-salesman/)** - Using TSP algorithms to create artistic line drawings from images
+- **[Voronoi Photo Mosaic](./voronoi-photo-mosaic/)** - Voronoi-based photo mosaic art
+- **[Style Transfer Voronoi Mosaic](./style-transfer-voronoi-mosaic)** - Style transfer effect on Voronoi mosaic art
+- **[Photo Collage](./photo-collage/)** - Algorithmic adaptive image collages
+- **[Image Point Traveling Salesman](./image-point-traveling-salesman/)** - Using TSP algorithms to create artistic line drawings from images (based on [Bosch & Herman, 2004](https://www.sciencedirect.com/science/article/abs/pii/S0167637703001275) and [Kaplan & Bosch, 2005](https://archive.bridgesmathart.org/2005/bridges2005-301.pdf))
 
 Additional planned topics:
 - 3D mathematical modeling and printing

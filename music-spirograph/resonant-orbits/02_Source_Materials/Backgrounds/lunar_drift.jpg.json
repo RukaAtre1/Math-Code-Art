@@ -1,0 +1,31 @@
+{
+  "kind": "photograph",
+  "creator": "Julien Maculan",
+  "source_url": "https://unsplash.com/photos/full-moon-in-dark-night-sky-0-5rItn0AEE",
+  "download_url": "https://images.unsplash.com/photo-1617071671952-9ac0a64972eb?fm=jpg&q=95",
+  "license": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "commercial_use": true,
+  "verified_date": "2026-09-29",
+  "source_dimensions": [
+    8256,
+    6192
+  ],
+  "sha256": "5af611285a635fcda0a0cb8ec5f800905b000ece88dbde6b5d74888c3702942c",
+  "render": {
+    "brightness": 0.36,
+    "saturation": 0.35,
+    "tint": [
+      0.86,
+      0.94,
+      1.06
+    ],
+    "crop_center": [
+      0.5,
+      0.5
+    ],
+    "focus_dim": 0.0,
+    "blur": 0.18
+  },
+  "usage_note": "Background in a substantially modified music-generated artwork; do not sell the source photograph separately."
+}

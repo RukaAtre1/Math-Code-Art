@@ -1,0 +1,26 @@
+{
+  "kind": "photograph",
+  "creator": "NASA / ISS Expedition 63 crew",
+  "source_url": "https://www.nasa.gov/image-article/suns-first-rays-burst-over-earths-horizon/",
+  "download_url": "https://images-assets.nasa.gov/image/iss063e058598/iss063e058598~orig.jpg",
+  "license": "NASA media usage guidelines; US government photograph",
+  "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+  "commercial_use": true,
+  "verified_date": "2026-09-29",
+  "source_dimensions": [
+    5568,
+    3712
+  ],
+  "sha256": "172e1d716416072574cbdceb177e6d034d016fe6f037ac9897378c7418261cce",
+  "render": {
+    "brightness": 0.56,
+    "saturation": 0.92,
+    "crop_center": [
+      0.5,
+      0.7
+    ],
+    "focus_dim": 0.0,
+    "blur": 0.05
+  },
+  "usage_note": "Credit NASA; no endorsement is implied. No logos or identifiable people in chosen crop."
+}
